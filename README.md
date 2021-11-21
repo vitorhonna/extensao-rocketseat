@@ -1,2 +1,3 @@
-# extensao-rocketseat
-Extensão do chrome para o site da Rocketseat
+# RocketFocus
+
+Extensão para o site da Rocketseat
